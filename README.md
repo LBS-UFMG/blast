@@ -1,5 +1,5 @@
-# Meu primeiro site
+# Interface web BLAST
 
 Para iniciar um servidor:
-php spark serve
+<code>php spark serve</code>
 
